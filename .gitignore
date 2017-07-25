@@ -1,0 +1,8 @@
+bin
+.buildozer
+.idea
+buildozer.spec
+calc.png
+calcicon.png
+calcscreen.png
+
